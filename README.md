@@ -6,10 +6,11 @@ Ce projet est une application web de gestion des produits développée en Java a
 ## Fonctionnalités
 Inscription : Les nouveaux utilisateurs peuvent s'inscrire en fournissant un nom d'utilisateur, un mot de passe et en choisissant un rôle (utilisateur ou administrateur).
 Connexion : Les utilisateurs existants peuvent se connecter en utilisant leur nom d'utilisateur et leur mot de passe.
-Gestion des Produits (Administrateur) :
+
+### Gestion des Produits (Administrateur) :
 Ajouter un produit
 Modifier un produit
 Supprimer un produit
 Voir la liste complète des produits
-Consultation des Produits (Utilisateur) :
+### Consultation des Produits (Utilisateur) :
 Voir la liste des produits
